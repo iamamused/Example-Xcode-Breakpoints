@@ -66,11 +66,11 @@
             ignoreCount = "3"
             continueAfterRunningActions = "No"
             filePath = "BreakpointExample/BEViewController.m"
-            timestampString = "411083462.177416"
+            timestampString = "467812420.428447"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "40"
-            endingLineNumber = "40"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
             landmarkName = "-ignoredBreakpointAction:"
             landmarkType = "5">
          </BreakpointContent>
@@ -140,6 +140,8 @@
             continueAfterRunningActions = "No"
             symbolName = "+[NSURLConnection sendSynchronousRequest:returningResponse:error:]"
             moduleName = "">
+            <Locations>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -169,6 +171,8 @@
                   </ActionContent>
                </BreakpointActionProxy>
             </Actions>
+            <Locations>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -212,7 +216,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            shouldBeEnabled = "No"
+            shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "BreakpointExample/BEAppDelegate.m"
